@@ -14,7 +14,11 @@ Output
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 _© 2023 XYZ, Inc._
 =======
 _©2023 XYZ, Inc._
 >>>>>>> f60db217d436af006b7e21173fa70ab7dfc1e837
+=======
+_© 2022 XYZ, Inc._
+>>>>>>> parent of 9771b9d (Fix copyright year in README footer)
